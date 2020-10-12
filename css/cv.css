@@ -15,6 +15,10 @@ html, body {
     padding-top: 56px;
 }
 
+.object-contain {
+    object-fit: cover;
+}
+
 .navbar {
     height: 50px;
     background-color: #4DBFD9;
@@ -29,7 +33,6 @@ html, body {
 }
 
 .nav-brand {
-    margin-top: 6px;
     font-family: "Journey - Soft Bold", serif;
     font-size: 30px;
 }
